@@ -26,14 +26,15 @@ Aquí encontrarás ejemplos prácticos que cubren:
 ---
 ## *Nota: Estos scripts están pensados estrictamente como material de estudio. ¡Modifícalos y experimenta con ellos!*
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="https://uv.cl/images/descargas-corporativas/uv_logo_alta_rgba_azul-2023.png" width="200">
-    </td>
-    <td align="right">
-      <img src="https://github.com/user-attachments/assets/582d7d02-643d-4dce-9e3e-0af435a19e99" width="200">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="left"
+       src="https://uv.cl/images/descargas-corporativas/uv_logo_alta_rgba_azul-2023.png"
+       width="180">
+
+  <img align="right"
+       src="https://github.com/user-attachments/assets/582d7d02-643d-4dce-9e3e-0af435a19e99"
+       width="180">
+</p>
+
+<br clear="all">
 
