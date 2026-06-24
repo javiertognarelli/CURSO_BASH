@@ -15,7 +15,7 @@ Aquí encontrarás ejemplos prácticos que cubren:
    ```bash
    chmod +x nombre_del_script.sh
 
-```
+   ```
 
 3. Ejecútalo en tu terminal:
 ```bash
@@ -24,7 +24,4 @@ Aquí encontrarás ejemplos prácticos que cubren:
 ```
 
 ---
-*Nota: Estos scripts están pensados estrictamente como material de estudio. ¡Modifícalos y experimenta con ellos!*
-
-
-```
+## *Nota: Estos scripts están pensados estrictamente como material de estudio. ¡Modifícalos y experimenta con ellos!*
