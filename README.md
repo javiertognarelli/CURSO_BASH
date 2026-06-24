@@ -1,6 +1,3 @@
-Aquí tienes una propuesta corta y directa para el archivo `README.md`:
-
-```markdown
 # Ejemplos de Bash Scripting 🚀
 
 Este repositorio contiene una colección de scripts básicos en Bash desarrollados como material de apoyo y guía para las clases de scripting.
@@ -26,12 +23,8 @@ Aquí encontrarás ejemplos prácticos que cubren:
 
 ```
 
-
-
 ---
-
 *Nota: Estos scripts están pensados estrictamente como material de estudio. ¡Modifícalos y experimenta con ellos!*
 
-```
 
 ```
