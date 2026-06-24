@@ -33,7 +33,7 @@ Aquí encontrarás ejemplos prácticos que cubren:
 
   <img align="right"
        src="https://github.com/user-attachments/assets/582d7d02-643d-4dce-9e3e-0af435a19e99"
-       width="180">
+       width="140">
 </p>
 
 <br clear="all">
