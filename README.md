@@ -25,3 +25,5 @@ Aquí encontrarás ejemplos prácticos que cubren:
 
 ---
 ## *Nota: Estos scripts están pensados estrictamente como material de estudio. ¡Modifícalos y experimenta con ellos!*
+
+<img src="https://uv.cl/images/descargas-corporativas/uv_logo_alta_rgba_azul-2023.png" width="200">
